@@ -1,0 +1,32 @@
+# site settings
+title: Adi
+subtitle: THE BLOG OF ADITYA BHAT
+email: adigbhat@gmail.com
+description: Not entirely sure what purpose a blog would serve someone like me  <br /> hopefully it will keep track of things I'm currently interested in.
+baseurl: "/adi" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 4500 Great America Pkwy
+city: Santa Clara
+state: California
+zip_code: 95054
+country: United States of America
+phone: (716) 555-5555
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/aditya.bhat007
+github_url: https://github.com/ad1t7a
+instagram_url: https://www.instagram.com/adityabhat007/
+linkedin_url: https://www.linkedin.com/in/mradityabhat/
+twitter_url: https://twitter.com/adityagbhat
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
